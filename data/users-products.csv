@@ -1,0 +1,4 @@
+email,password,category_id,product_id,product_name,price,quantity
+test@eshop.com,,1,1,iPhone 15 Pro Max,30000000,1
+test@eshop.com,,1,2,Samsung Galaxy S24 Ultra,28000000,1
+test@eshop.com,,2,3,MacBook Pro M3,45000000,1
